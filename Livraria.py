@@ -1,5 +1,5 @@
 # titulo
-print('Bem vindo a Livraria da Camila!')
+print('Bem vindo a Livraria [NOME]!')
 print('-' * 32)
 print('-' * 8, 'MENU PRINCIPAL', '-' * 8)
 
